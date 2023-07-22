@@ -76,7 +76,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 /*  */</script>
 <script type="text/javascript" src="https://frangy-editor.github.io/frangy/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">/*  */
-var userProfileL10n = {"user_id":"0","nonce":"6e97281db9"};
+var userProfileL10n = {"user_id":"0","nonce":"b30eb92682"};
 /*  */</script>
 <script type="text/javascript" src="https://frangy-editor.github.io/frangy/wp-admin/js/user-profile.min.js?ver=6.2.2" id="user-profile-js"></script>
 	<div class="clear"></div>
